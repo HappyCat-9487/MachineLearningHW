@@ -8,7 +8,7 @@ Created on Sun Nov 24 20:28:01 2019
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from sklearn.cross_validation import train_test_split
+from sklearn.model_selection import train_test_split
 import math
 import random
 from sklearn import metrics 
